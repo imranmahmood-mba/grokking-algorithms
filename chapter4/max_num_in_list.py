@@ -1,6 +1,6 @@
 # non recursive solution
 def max_num_in_list(arr):
-    max =  0
+    max = 0
     for num in arr:
         if num > max:
             max = num
